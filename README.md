@@ -8,7 +8,9 @@
 
 ## 系统目录
 
-* [C++](CPP/README)
-* Git
+* [C++](CPP/README.md)
+* [Git](Git/README.md)
 * OpenCV-计算机视觉
 * [DSA-数据结构与算法](DSA/README.md)
+* CMake
+* Linux
