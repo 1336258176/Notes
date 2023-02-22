@@ -1,19 +1,22 @@
-# *栈（LIFO）*
-****
+# _栈（LIFO）_
+
+---
 
 ![img](../Illustrations/Stack.png)
 
 ## Contents
-* [STL](#stl)
-* [顺序栈（数组实现）](#顺序栈数组实现)
-* [链栈（链表实现）](#链栈链表实现)
-* [应用](#应用)
-* [参考资料](#参考资料)
+
+- [STL](#stl)
+- [顺序栈（数组实现）](#顺序栈数组实现)
+- [链栈（链表实现）](#链栈链表实现)
+- [应用](#应用)
+- [参考资料](#参考资料)
 
 ## STL
+
 > 头文件`<stack>`
 >
-> STL模板
+> STL 模板
 > `template <class Type, class Container = deque<Type> > class stack;`
 >
 > ```c++
@@ -25,6 +28,7 @@
 > ```
 
 ## 顺序栈（数组实现）
+
 ```c++
 //结构
 class Stack
@@ -42,7 +46,7 @@ public:
 
 void Stack::push(int x)
 {
-    num[++ this->top] = x; 
+    num[++ this->top] = x;
 }
 
 int Stack::pop()
@@ -66,6 +70,7 @@ bool Stack::isEmpty()
 ```
 
 ## 链栈（链表实现）
+
 ```c++
 //节点结构
 class Node
@@ -133,6 +138,7 @@ public:
 ```
 
 ## 应用
+
 > 1. 递归：斐波那契数列、汉诺塔
 > 2. 四则运算表达式求值：逆波兰表示（RPN）中缀表达式->后缀表达式
 
