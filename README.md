@@ -4,8 +4,10 @@
 
 ## Contents
 
-- [前言](#前言)
-- [系统目录](#系统目录)
+- [Notes](#notes)
+  - [Contents](#contents)
+  - [前言](#前言)
+  - [系统目录](#系统目录)
 
 ## 前言
 
@@ -18,8 +20,9 @@
 
 - [C++](CPP/README.md)
 - [Git](Git/README.md)
-- OpenCV-计算机视觉
+- [OpenCV-计算机视觉](OpenCV/README.md)
 - [DSA-数据结构与算法](DSA/README.md)
-- CMake
-- Linux
+- [CMake](Others/CMake.md)
+- [Linux](Linux/README.md)
 - [Markdown 高级语法](Others/Markdown.md)
+- [VScode](Others/VScode.md)
