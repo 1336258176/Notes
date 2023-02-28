@@ -13,4 +13,6 @@
 - [头文件相关知识](Headfile.md)
 - [类和对象](Class.md)
 - [多线程](Multithreading.md)
-- [GCC](GCC.md)
+- [指针](Pointer.md)
+- [Lambda表达式](Lambda.md)
+- [typedef](typedef.md)

@@ -18,11 +18,13 @@
 
 ## 系统目录
 
+- [前置知识](Pre-knowledge.md)
 - [C++](CPP/README.md)
-- [Git](Git/README.md)
 - [OpenCV-计算机视觉](OpenCV/README.md)
 - [DSA-数据结构与算法](DSA/README.md)
 - [CMake](Others/CMake.md)
-- [Linux](Linux/README.md)
+- [GCC](Others/GCC.md)
+- [Git](Git/README.md)
 - [Markdown 高级语法](Others/Markdown.md)
+- [Linux](Linux/README.md)
 - [VScode](Others/VScode.md)
