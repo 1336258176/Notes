@@ -12,7 +12,7 @@
 指针是C++面型对象中比较难的一部分，所以更有必要记录一下其中的难点、易混点，希望能更好地帮助大家。
 
 ## 函数指针
-函数指针就是指向函数的指针，函数指针的声明类似有函数的声明，只不过将函数名变成了 `(*func_pointer)` 形式如下：
+函数指针就是指向函数的指针，函数指针的声明类似函数的声明，只不过将函数名变成了 `(*func_pointer)` 形式如下：
 ```
 data_type (* func_pointer)(data_type arg1, data_type arg2,..., data_type argn);
 ```
@@ -25,7 +25,7 @@ void test(int a)                    //函数定义
     std::cout << ++a << std::endl;
 }
 
-test_p = test;
+test_p = test;                      //函数的函数名实际上就是一个指针，函数名指向该函数的代码在内存中的首地址。
 (*test_p)(9);                       //调用函数指针
 ```
 输出结果为10
@@ -60,7 +60,7 @@ Subscriber subscribe(const std::string& topic, uint32_t queue_ size,
                     void(T::*fp)( const boost::shared_.ptr<M const>&), T* obj,
                     const TransportHints& transport_hints = TransportHints())
 ```
-可见，与 `createTrackbar` 不同的是，`subscribe` 中回调函数形参有类模板，这样就避免了实参与形参不一致的问题。
+在这里，指针的定义与使用都加上了“类限制”或“对象”，用来指明指针指向的函数是那个类的。可见，与 `createTrackbar` 不同的是，`subscribe` 中回调函数形参有类限制，这样就避免了实参与形参不一致的问题。
 
 ## 参考资料
 - [C++ 指针](https://www.runoob.com/cplusplus/cpp-pointers.html)
