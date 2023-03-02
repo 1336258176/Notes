@@ -64,3 +64,4 @@ Subscriber subscribe(const std::string& topic, uint32_t queue_ size,
 
 ## 参考资料
 - [C++ 指针](https://www.runoob.com/cplusplus/cpp-pointers.html)
+- [C/C++ 函数指针使用总结](https://www.cnblogs.com/lvchaoshun/p/7806248.html)
