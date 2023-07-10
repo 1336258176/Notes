@@ -1,7 +1,5 @@
 # 控制终端文本样式
-
 ## 构成
-
 - 转义字符 + 样式代码
 - 转义字符：就是表中各行的前缀代码 -- "\\033"， 它是转义字符的特殊符号，也称为 ESC 符号或 Escape 字符。它在 ASCII 表中的值为27（十进制），可以使用十进制、八进制或十六进制表示。表格中是八进制的表示方式。
 - 样式代码，可分为三类：
@@ -32,3 +30,28 @@ set(R "${Esc}[0;31m")#红色
 set(E "${Esc}[m" )#结束颜色设置
 message("${B}-- 项目名称: ${PROJECT_NAME}${E}")#记得每次用完要结束颜色设置
 ```
+# add_definitions
+
+- 通过 cmake 定义宏，该命令可用于添加任何标志，但其目的是添加预处理器定义（以 -D 开始）
+- 通过 cmake 控制编译进程
+
+CMakeLists 文件：
+```cmake
+set(TEST_VIDEO ...)
+set(USE_TEST_VIDEO ON)
+if(USE_TEST_VIDEO)
+	add_definitions("-DTEST_VIDEO=\"${TEST_VIDEO}\"")
+else()
+	remove_definitions("-DTEST_VIDEO=\"${TEST_VIDEO}\"")
+endif()
+```
+也可以使用命令行 `cmake -DTEST_VIDEO=1 ..`
+cpp 源码：
+```cpp
+#ifdef TEST_VIDEO
+...
+#else
+...
+#endif //TEST_VIDEO
+```
+
