@@ -11,8 +11,12 @@
             "id": "9702fbe43a88ddd2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ML/机器学习.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -21,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RGB 图像转换到灰度图.md",
+                "file": "OpenCV/RGB 图像转换到灰度图.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习.md",
+                "file": "OpenCV/相机成像.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "深度学习.md",
+                "file": "ML/深度学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -57,14 +61,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "机器学习.md",
+                "file": "ML/机器学习.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "深度学习.md",
+                "file": "ML/机器学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "深度学习.md",
+                "file": "ML/机器学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "深度学习.md"
+                "file": "ML/机器学习.md"
               }
             }
           }
@@ -194,14 +197,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "720d2457c8eaa018",
+  "active": "9702fbe43a88ddd2",
   "lastOpenFiles": [
+    "ML/深度学习.md",
+    "OpenCV/相机成像.md",
+    "OpenCV/相机标定.md",
     "CMake.md",
-    "机器学习.md",
-    "OpenCV 多通道矩阵在内存中的存储方式.md",
-    "RGB 图像转换到灰度图.md",
+    "OpenCV",
+    "OpenCV/OpenCV 多通道矩阵在内存中的存储方式.md",
+    "OpenCV/PnP解算.md",
+    "OpenCV/RGB 图像转换到灰度图.md",
     "数据分析.md",
-    "深度学习.md",
+    "ML",
+    "ML/机器学习.md",
     "image/Pasted image 20230709145745.png",
     "image/Pasted image 20230709141939.png",
     "image/Pasted image 20230709145247.png",
@@ -211,10 +219,7 @@
     "image/Pasted image 20230709141204.png",
     "image/Pasted image 20230709140425.png",
     "Pasted image 20230709140108.png",
-    "PnP解算.md",
-    "相机成像.md",
     "Recording 20230709004345.webm",
-    "相机标定.md",
     "image/Pasted image 20230708221528.png",
     "image",
     "未命名 1.md",
