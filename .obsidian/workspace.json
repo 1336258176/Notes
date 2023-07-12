@@ -4,67 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "abe1a6045857d701",
+        "id": "0fe1c34918df08f7",
         "type": "tabs",
         "children": [
           {
-            "id": "9702fbe43a88ddd2",
+            "id": "83789d9803baa851",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/机器学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53623b482808505e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV/RGB 图像转换到灰度图.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "720d2457c8eaa018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenCV/相机成像.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "645e3f9656aa192d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/深度学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0030e97be16e774a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ML/机器学习.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -133,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ML/机器学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ML/机器学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ML/机器学习.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -197,19 +141,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "9702fbe43a88ddd2",
+  "active": "83789d9803baa851",
   "lastOpenFiles": [
-    "ML/深度学习.md",
-    "OpenCV/相机成像.md",
-    "OpenCV/相机标定.md",
+    "数据分析.md",
     "CMake.md",
+    "ML/机器学习.md",
+    "ML/深度学习.md",
+    "C++知识点/Chrono.md",
+    "C++知识点/C++ 知识点.md",
+    "C++知识点/多线程.md",
+    "C++知识点/常量指针和指针常量.md",
+    "image/Pasted image 20230712220329.png",
+    "OpenCV/相机成像.md",
+    "OpenCV/RGB 图像转换到灰度图.md",
+    "C++知识点",
+    "OpenCV/相机标定.md",
     "OpenCV",
     "OpenCV/OpenCV 多通道矩阵在内存中的存储方式.md",
     "OpenCV/PnP解算.md",
-    "OpenCV/RGB 图像转换到灰度图.md",
-    "数据分析.md",
     "ML",
-    "ML/机器学习.md",
     "image/Pasted image 20230709145745.png",
     "image/Pasted image 20230709141939.png",
     "image/Pasted image 20230709145247.png",
@@ -220,7 +170,6 @@
     "image/Pasted image 20230709140425.png",
     "Pasted image 20230709140108.png",
     "Recording 20230709004345.webm",
-    "image/Pasted image 20230708221528.png",
     "image",
     "未命名 1.md",
     "线性代数.md",
