@@ -11,11 +11,48 @@
             "id": "83789d9803baa851",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "markdown",
+              "state": {
+                "file": "C++知识点/chrono.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "efbf4809f7ebd76d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "数据分析.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3faf5e4e083b5c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++知识点/智能指针.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "969cfe26052d0c39",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -81,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++知识点/智能指针.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++知识点/智能指针.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "C++知识点/智能指针.md"
+              }
             }
           }
         ],
@@ -141,16 +182,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "83789d9803baa851",
+  "active": "3faf5e4e083b5c84",
   "lastOpenFiles": [
     "数据分析.md",
+    "C++知识点/智能指针.md",
+    "ML/深度学习.md",
+    "C++知识点/多线程.md",
+    "C++知识点/const.md",
+    "C++知识点/chrono.md",
+    "C++知识点/C++ 知识点.md",
+    "C++知识点/一些不常用的关键字.md",
     "CMake.md",
     "ML/机器学习.md",
-    "ML/深度学习.md",
-    "C++知识点/Chrono.md",
-    "C++知识点/C++ 知识点.md",
-    "C++知识点/多线程.md",
-    "C++知识点/常量指针和指针常量.md",
     "image/Pasted image 20230712220329.png",
     "OpenCV/相机成像.md",
     "OpenCV/RGB 图像转换到灰度图.md",
