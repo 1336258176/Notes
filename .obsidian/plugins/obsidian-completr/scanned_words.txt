@@ -532,6 +532,7 @@ sED
 sEDD
 sD
 sAz
+since
 IQR
 IHDR
 IDATx
@@ -860,6 +861,7 @@ BUU
 BEHw
 BSS
 BVW
+Binary
 Li
 LOw
 Lt
@@ -1439,6 +1441,9 @@ png
 pZ
 po
 pF
+perfect
+parameter
+pack
 reaplot
 regplot
 rb
@@ -1518,6 +1523,7 @@ rO
 rs
 rANl
 rad
+right
 lineplot
 lmplot
 le
@@ -1600,6 +1606,7 @@ lED
 lW
 lutt
 lq
+left
 joinplot
 jak
 jF
@@ -1812,6 +1819,7 @@ Fjj
 FF
 FN
 Fan
+Fold
 edited
 eE
 ev
@@ -1886,6 +1894,7 @@ eggk
 euM
 ew
 example
+expressions
 Writed
 World
 WNZ
@@ -2174,6 +2183,8 @@ fw
 fxYF
 fW
 future
+forwarding
+fold
 hB
 hck
 hW
@@ -3025,6 +3036,7 @@ Ue
 Uq
 UvZ
 Ua
+Unary
 yll
 yEyE
 yc

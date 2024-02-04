@@ -65,4 +65,10 @@ int sum(Args&&... args)
 //  return (args + ... + 1 * 2);   // Error: operator with precedence below cast
     return (args + ... + (1 * 2)); // OK
 }
+
+template <typename... Args>
+void printer(Args &&... args)
+{
+  (std::cout << ... << args) << '\n';
+}
 ```
