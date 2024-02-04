@@ -20,10 +20,11 @@
   "random-note": false,
   "outline": true,
   "word-count": true,
-  "slides": false,
+  "slides": true,
   "audio-recorder": true,
   "workspaces": true,
   "file-recovery": true,
   "publish": false,
-  "sync": true
+  "sync": true,
+  "properties": true
 }

@@ -1,6 +1,11 @@
 {
-  "accentColor": "",
+  "accentColor": "#bab1dd",
   "monospaceFontFamily": "Cascadia Code",
   "translucency": false,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "showViewHeader": true,
+  "textFontFamily": "苹方",
+  "interfaceFontFamily": "苹方",
+  "baseFontSize": 16
 }

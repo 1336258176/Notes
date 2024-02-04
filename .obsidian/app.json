@@ -2,5 +2,13 @@
   "promptDelete": false,
   "showLineNumber": false,
   "vimMode": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "newLinkFormat": "relative"
 }

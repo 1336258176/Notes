@@ -4,55 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "0fe1c34918df08f7",
+        "id": "dbe36615b89f39ad",
         "type": "tabs",
         "children": [
           {
-            "id": "83789d9803baa851",
+            "id": "b3e9e0ad8d69f613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++知识点/chrono.md",
+                "file": "ROS2/ROS2相机标定.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "efbf4809f7ebd76d",
+            "id": "d48fb246ba8d9c8e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据分析.md",
+                "file": "数学优化建模/卡尔曼滤波.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "3faf5e4e083b5c84",
+            "id": "b316df438e9683e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++知识点/智能指针.md",
+                "file": "工程数学基础/矩阵的求导运算.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "969cfe26052d0c39",
+            "id": "dd8bb528f44dd91f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "C++/Variadic Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 241.5
   },
   "right": {
     "id": "add1c4073f5d3014",
@@ -118,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++知识点/智能指针.md",
+                "file": "C++/Variadic Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++知识点/智能指针.md",
+                "file": "C++/Variadic Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +162,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++知识点/智能指针.md"
+                "file": "C++/Variadic Template.md"
               }
+            }
+          },
+          {
+            "id": "8de5582be3481cdb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "2664fb2e72d732aa",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
             }
           }
         ],
@@ -182,41 +206,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "3faf5e4e083b5c84",
+  "active": "dd8bb528f44dd91f",
   "lastOpenFiles": [
-    "数据分析.md",
-    "C++知识点/智能指针.md",
-    "ML/深度学习.md",
-    "C++知识点/多线程.md",
-    "C++知识点/const.md",
-    "C++知识点/chrono.md",
-    "C++知识点/C++ 知识点.md",
-    "C++知识点/一些不常用的关键字.md",
+    "Notes",
+    "C++/类.md",
+    "C++/一些不常用的关键字.md",
+    "C++/智能指针.md",
+    "C++/C++ 知识点.md",
+    "C++/Chrono.md",
+    "C++/const.md",
+    "C++/Thread.md",
+    "C++/Variadic Template.md",
+    "C++/TMP.md",
+    "Python/Seaborn.md",
+    "Python/Numpy.md",
     "CMake.md",
-    "ML/机器学习.md",
-    "image/Pasted image 20230712220329.png",
-    "OpenCV/相机成像.md",
-    "OpenCV/RGB 图像转换到灰度图.md",
-    "C++知识点",
-    "OpenCV/相机标定.md",
-    "OpenCV",
-    "OpenCV/OpenCV 多通道矩阵在内存中的存储方式.md",
-    "OpenCV/PnP解算.md",
-    "ML",
-    "image/Pasted image 20230709145745.png",
-    "image/Pasted image 20230709141939.png",
-    "image/Pasted image 20230709145247.png",
-    "image/Pasted image 20230708163109.png",
-    "image/Pasted image 20230709144826.png",
-    "image/Pasted image 20230709142950.png",
-    "image/Pasted image 20230709141204.png",
-    "image/Pasted image 20230709140425.png",
-    "Pasted image 20230709140108.png",
-    "Recording 20230709004345.webm",
-    "image",
-    "未命名 1.md",
-    "线性代数.md",
-    "2023-07-04.md",
-    "未命名.canvas"
+    "GIT.md",
+    "Rune.md",
+    "Prompt Creator.md",
+    "ROS2/ROS2相机标定.md",
+    "image/exp20.png",
+    "image/exp19.png",
+    "image/exp18.png",
+    "image/exp17.png",
+    "image/exp16.png",
+    "image/exp15.png",
+    "image/exp14.png",
+    "image/exp13.png",
+    "image/exp12.png",
+    "image/exp11.png",
+    "数学优化建模/最小二乘法.md",
+    "数学优化建模/卡尔曼滤波.md",
+    "工程数学基础",
+    "数学优化建模",
+    "工程数学基础/矩阵的求导运算.md",
+    "ROS2/Clion 编译 ROS2 项目.md",
+    "RoboMaster/大符.md",
+    "RoboMaster/RoboMaster创梦之翼视觉组 C++ 培训文档（上）.md",
+    "RoboMaster/RoboMaster创梦之翼视觉组 C++ 培训文档（下）.md",
+    "VS code.md",
+    "WSL2/注意事项.md",
+    "未命名.canvas",
+    "RoboMaster",
+    "WSL2",
+    "ROS2",
+    "image/two_dimensional_arrays.jpg.crdownload",
+    "image/20200211114236216.png.crdownload",
+    "image/Basic_concept_of_Kalman_filtering.svg.png.crdownload",
+    "Python",
+    "数模"
   ]
 }
