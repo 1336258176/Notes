@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Variadic Template.md",
+                "file": "VS code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2812b58d07c07190",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Variadic Template.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Variadic Template.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Variadic Template.md"
+                "file": "README.md"
               }
             }
           },
@@ -206,8 +218,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd8bb528f44dd91f",
+  "active": "2812b58d07c07190",
   "lastOpenFiles": [
+    "VS code.md",
+    "README.md",
+    "C++/Variadic Template.md",
     "Notes",
     "C++/类.md",
     "C++/一些不常用的关键字.md",
@@ -216,7 +231,6 @@
     "C++/Chrono.md",
     "C++/const.md",
     "C++/Thread.md",
-    "C++/Variadic Template.md",
     "C++/TMP.md",
     "Python/Seaborn.md",
     "Python/Numpy.md",
@@ -244,7 +258,6 @@
     "RoboMaster/大符.md",
     "RoboMaster/RoboMaster创梦之翼视觉组 C++ 培训文档（上）.md",
     "RoboMaster/RoboMaster创梦之翼视觉组 C++ 培训文档（下）.md",
-    "VS code.md",
     "WSL2/注意事项.md",
     "未命名.canvas",
     "RoboMaster",
@@ -253,7 +266,6 @@
     "image/two_dimensional_arrays.jpg.crdownload",
     "image/20200211114236216.png.crdownload",
     "image/Basic_concept_of_Kalman_filtering.svg.png.crdownload",
-    "Python",
-    "数模"
+    "Python"
   ]
 }
