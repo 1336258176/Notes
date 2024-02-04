@@ -54,21 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2812b58d07c07190",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -134,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "VS code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "VS code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "VS code.md"
               }
             }
           },
@@ -218,10 +206,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2812b58d07c07190",
+  "active": "dd8bb528f44dd91f",
   "lastOpenFiles": [
-    "VS code.md",
     "README.md",
+    "README",
+    "VS code.md",
     "C++/Variadic Template.md",
     "Notes",
     "C++/类.md",
@@ -258,14 +247,12 @@
     "RoboMaster/大符.md",
     "RoboMaster/RoboMaster创梦之翼视觉组 C++ 培训文档（上）.md",
     "RoboMaster/RoboMaster创梦之翼视觉组 C++ 培训文档（下）.md",
-    "WSL2/注意事项.md",
     "未命名.canvas",
     "RoboMaster",
     "WSL2",
     "ROS2",
     "image/two_dimensional_arrays.jpg.crdownload",
     "image/20200211114236216.png.crdownload",
-    "image/Basic_concept_of_Kalman_filtering.svg.png.crdownload",
-    "Python"
+    "image/Basic_concept_of_Kalman_filtering.svg.png.crdownload"
   ]
 }
