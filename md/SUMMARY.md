@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Home Page](READEME.md)
 * [CMake](CMake.md)
 * [Git Commit 规范](Git-Commit.md)
 * [Prompt Creator](Prompt-Creator.md)
