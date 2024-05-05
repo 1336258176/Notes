@@ -1,5 +1,3 @@
-tags : #PnP
-
 # 说明
 
 - `PnP(Perspective-n-Point)` 是求解3D到2D点相对运动的方法，目的是求解相机坐标系相对世界坐标系的位姿。
