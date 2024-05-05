@@ -1,6 +1,6 @@
 # Table of contents
 
-* [CMake](README.md)
+* [CMake](CMake.md)
 * [Git Commit 规范](GIT.md)
 * [Prompt Creator](<Prompt Creator.md>)
 * [WSL2](WSL2.md)
@@ -18,8 +18,8 @@
 * [Linux](linux/README.md)
   * [联网](Linux/联网.md)
 * [ML](ml/README.md)
-  * [机器学习](ML/机器学习.md)
-  * [深度学习](ml/shen-du-xue-xi.md)
+  * [机器学习](ML/ML.md)
+  * [深度学习](ml/DL.md)
 * [OpenCV](opencv/README.md)
   * [RGB 图像转换到灰度图](opencv/rgb-tu-xiang-zhuan-huan-dao-hui-du-tu.md)
   * [OpenCV 多通道矩阵在内存中的存储方式](<OpenCV/OpenCV 多通道矩阵在内存中的存储方式.md>)
