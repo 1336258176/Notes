@@ -1,4 +1,4 @@
 # Python
 
-- [Seaborn](Seaborn.md)
+- [Seaborn](seaborn.md)
 - [Numpy](Numpy.md)
